@@ -28,6 +28,8 @@ const Index = () => (
         <Loader />
         <Header nav="home" />
         <SingleImage />
+        <Blog/>
+        <Team/>
         <Features />
         <Services serviceClassName="service-single" />
         <Counters />
